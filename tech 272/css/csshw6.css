@@ -1,0 +1,38 @@
+li {
+        margin: 5% 5%;
+        margin: 10px 0;
+    }
+    
+
+    body {
+       background-color: rosybrown;
+        font-family: Verdana, monospace;
+        line-height: 175%;
+    }
+
+    h1, #header, h4, h5 {
+        text-align: center;
+    }
+
+    p{
+    font-size: 2em;
+    }
+    
+    h2{
+        color: blue;
+       
+    }
+   
+    h3,strong{
+        letter-spacing: 1px;
+        font: bold 1em Verdana, serif;
+        text-transform: uppercase;
+    color: red;
+    }
+    
+    ul{
+        font-style: italic;
+    }
+    .label{
+        font-style: italic;
+    }
